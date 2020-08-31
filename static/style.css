@@ -1,0 +1,56 @@
+body {
+    background-color: #b8983f;
+    text-align: center;
+       background-image: url(/static/images/aero.jpg) ; 
+      background-repeat: no-repeat;  
+      background-size: 185%;
+      
+}
+
+ .navbar {
+    background-color: #333333;
+    text-align: center;
+    font-size: larger;
+} 
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
+ 
+ .card-body{
+     background-color: rgb(204, 171, 82);
+     border: 2px solid #000000;
+     border-radius: 8px;
+     
+     
+ }
+ .card-title{
+     text-transform: capitalize;
+    font-style: italic;
+    font-size: 25px;
+ }
+ .col-sm-6{
+     float: right;
+     width: 50%;
+     padding: 0 10px;
+ }
+.row{
+    margin: 0 5px;
+}
+h3{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
+}
+.btnbtn-secondary{
+    font-size: 50%;
+}
+p{
+    text-align: center ;
+    font-size: 150%;
+
+    
+}
