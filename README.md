@@ -28,3 +28,10 @@ Total_Stops: Total stops between the source and destination.
 Additional_Info: Additional information about the flight
 
 Price(target): The price of the ticket
+
+# REGRESSION PROBLEM
+We need to predict the price of ticket from one city to another
+
+
+# Performace Metric Used
+Root Mean Squared error (RMSE) and R-squared as regression metric.
