@@ -3,11 +3,9 @@
 Flight ticket prices can be something hard to guess, today we might see a price, check out the price of the same flight tomorrow, it will be a different story. We might have often heard travellers saying that flight ticket prices are so unpredictable.
 Here you will be provided with prices of flight tickets for various airlines between the months of March and June of 2019 and between various cities.
 
-
-![image](https://user-images.githubusercontent.com/67013985/93075090-f001b500-f6a2-11ea-8071-a1b388fe4d32.png)
-![image](https://user-images.githubusercontent.com/67013985/93075120-fb54e080-f6a2-11ea-8676-45726f30b961.png)
-![image](https://user-images.githubusercontent.com/67013985/93075154-060f7580-f6a3-11ea-85dc-06d0da418949.png)
-
+![image](https://user-images.githubusercontent.com/67013985/93077397-5f2cd880-f6a6-11ea-8cfd-e2c46e4d905c.png)
+![image](https://user-images.githubusercontent.com/67013985/93077429-694ed700-f6a6-11ea-8e5e-435472167289.png)
+![image](https://user-images.githubusercontent.com/67013985/93077445-6f44b800-f6a6-11ea-905e-66dbc8b35b47.png)
 
 
 
