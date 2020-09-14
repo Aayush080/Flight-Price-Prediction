@@ -36,6 +36,7 @@ We need to predict the price of ticket from one city to another
 # Performace Metric Used
 Root Mean Squared error (RMSE) and R-squared as regression metric.
 
-[alt tag](http://url/to/img.png) 
+
+![image](https://user-images.githubusercontent.com/67013985/93069674-95b12600-f69b-11ea-8d7c-f710617ee1e4.png)
 
 
